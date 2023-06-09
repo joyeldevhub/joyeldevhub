@@ -1,8 +1,8 @@
-### Hi there 👋, I'm joyeldevhub
-#### I'm Alex Joyel Raj from India and I am a TechStack pro.
+# Hi there 👋, I'm joyeldevhub
+## I'm Alex Joyel Raj from India, and I'm a TechStack pro.
 ![I'm Alex Joyel Raj from India and I am a TechStack pro.](https://user-images.githubusercontent.com/74038190/212749171-b84692a8-2b04-4e3b-93ca-ac14705da224.gif)
 
- I really enjoy learning Core Java and testing, as well as work in Eclipse. I also enjoy Linux commands, SQL databases, and Linux Commands in general.
+I enjoy learning Core Java and testing, as well as working in Eclipse. Additionally, I have a keen interest in Cloud Computing, SQL databases, and Linux Commands.
 
 ## Skills & Experience
 * 🔍 Passionate software tester with expertise in manual and automated testing methodologies. 
