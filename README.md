@@ -2,22 +2,27 @@
 ## I'm Alex Joyel Raj from India, and I'm a TechStack pro.
 ![I'm Alex Joyel Raj from India and I am a TechStack pro.](https://visme.co/blog/wp-content/uploads/2020/03/animation-software-header-wide.gif)
 
-I enjoy learning Core Java and testing, as well as working in Eclipse. Additionally, I have a keen interest in Cloud Computing, SQL databases, and Linux Commands.
+Hello there! I'm passionate about becoming a Full Stack Developer, and I love working with the Eclipse IDE.🌟🔗🌟
 
 ## Skills & Experience
-* 🔍 Passionate software tester with expertise in manual and automated testing methodologies. 
+* 🤠 Experience with HTML5 features and best practices for modern web development.
+* 🖌  Strong skills in styling web pages, enhancing user experience, and interface design.
+* 👩‍💻 Proficient in Java programming, including object-oriented concepts and design patterns.
+* 🌎 Experience in creating dynamic web content using JSP, integrating Java code within HTML.
+* 🚛 Created and managed git repositories for collaborative and personal projects.
+* 🔍 Experience software tester with expertise in manual and automated testing methodologies.
 * 💾 Proficient in SQL database management and optimizing queries for improved performance.
 * ☁️ Skilled in AWS services, including EC2, S3, RDS, and Lambda, with a focus on scalable and secure cloud solutions.
-* 🐧 Experienced Linux administrator, adept at system configuration, troubleshooting, and shell scripting.
+* 🐧 Experienced Linux administrator, adept at system configuration, troubleshooting, and shell scripting.  
 
 Let's connect and collaborate on exciting projects!
 
-- 🌱 I’m currently learning Advanced software testing techniques. 
+- 🌱 I’m currently learning Advanced Software Development and testing techniques. 
 - 🤔 I’m looking for help with creating effective test plans and test cases for software applications. 
-- 💬 Ask me about software testing strategies and techniques. 
+- 💬 Ask me about software development strategies and techniques. 
 - 📫 How to reach me: You can reach me via 📧 at alexjoyelraj23@gmail.com 
 - 😄 Pronouns: He/him 
-- ⚡ Fun fact: I can detect software bugs faster than a speeding bullet! 
+- ⚡ Fun fact: Turning '404 not found' into 'It works on my machine!😅
 
 
 <h3 align="left">Connect with me:</h3>
