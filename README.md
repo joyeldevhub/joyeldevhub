@@ -6,6 +6,7 @@ Hello there! I'm passionate about becoming a Full Stack Developer, and I love wo
 
 ## Skills & Experience
 * 🤠 Experience with HTML5 features and best practices for modern web development.
+* 📝 Regular content creation and publishing. Creativity in generating engaging content.
 * 🖌  Strong skills in styling web pages, enhancing user experience, and interface design.
 * 👩‍💻 Proficient in Java programming, including object-oriented concepts and design patterns.
 * 🌎 Experience in creating dynamic web content using JSP, integrating Java code within HTML.
@@ -23,6 +24,7 @@ Let's connect and collaborate on exciting projects!
 - 📫 How to reach me: You can reach me via 📧 at alexjoyelraj23@gmail.com 
 - 😄 Pronouns: He/him 
 - ⚡ Fun fact: Turning '404 not found' into 'It works on my machine!😅
+- 📝 Blog Link: https://cyberdefender23.blogspot.com/
 
 
 <h3 align="left">Connect with me:</h3>
