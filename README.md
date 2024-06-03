@@ -24,7 +24,7 @@ Let's connect and collaborate on exciting projects!
 - 📫 How to reach me: You can reach me via 📧 at alexjoyelraj23@gmail.com 
 - 😄 Pronouns: He/him 
 - ⚡ Fun fact: Turning '404 not found' into 'It works on my machine!😅
-- 📝 Blog Link: https://cyberdefender23.blogspot.com/
+- 📝 Blog Link: https://cyberhowler.blogspot.com/
 
 
 <h3 align="left">Connect with me:</h3>
