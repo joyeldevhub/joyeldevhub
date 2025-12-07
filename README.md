@@ -1,69 +1,59 @@
-# Hi, I'm Alex Joyel Raj I (joyeldevhub)
-### DevOps Practitioner • Cloud Learner • Linux Engineer
+# **Alex Joyel Raj I — DevOps Engineer | Cloud | Automation**
 
-I focus on building, automating, and securing modern systems using Linux, AWS, Git, and CI/CD principles.  
-Every project I work on moves toward reliability, scalability, and automation.
+**AWS • Linux • Docker • CI/CD • Ansible • Kubernetes (learning) • Terraform (learning) • Git • GitHub Actions • Jenkins • Monitoring • SRE Practices**
 
 ---
 
-## DevOps Skill Set
-### Cloud & Infrastructure
-- AWS: EC2, S3, IAM, VPC, RDS, Lambda  
-- Cloud architecture fundamentals  
-- Deployment planning and infra workflows
-
-### Linux Engineering
-- Server administration  
-- Shell scripting  
-- System troubleshooting  
-- Package management and configuration
-
-### Automation & Tools
-- Git workflows  
-- CI/CD basics  
-- Reverse proxy fundamentals (Nginx)  
-- Monitoring and logging concepts  
-- Basic containerization (Docker learning path)
-
-### Quality Engineering
-- Test planning  
-- Debugging workflows  
-- Requirement analysis and validation
+## **Professional Focus**
+- AWS Infrastructure Engineering (EC2, VPC, IAM, ALB, S3, CloudWatch)
+- Linux Administration, server hardening, system operations
+- Docker containerization, multi-container architecture, Nginx Reverse Proxy
+- CI/CD pipeline development (GitHub Actions, Jenkins)
+- Automation with Ansible, Bash, Git workflows
+- Monitoring, alerting, and observability setups (CloudWatch, Grafana, SNS)
+- High availability, scaling strategies, and reliability engineering
 
 ---
 
-## What I’m Building
-- Hands-on DevOps mini projects  
-- AWS architecture simulations  
-- Linux automation scripts  
-- Technical blogs explaining DevOps concepts  
-- Clean, production-ready repositories
+## **Current Work**
+- AWS + Docker multi-container deployment on EC2
+- Automated monitoring + self-recovery workflows (CloudWatch → Lambda → SNS)
+- Reusable CI/CD pipelines for container deployments
+- Linux automation scripts for provisioning, setup, and hardening
+- DevOps micro-projects focused on pipelines, monitoring, and infra automation
 
 ---
 
-## Ask Me About
-- Linux fundamentals  
-- AWS project planning  
-- Git workflows  
-- Testing strategies  
-- Technical writing and documentation
+## **Articles & Technical Writing**
+- Cyber Howler Blog — DevOps, Cloud, Security  
+- LinkedIn technical posts on cloud reliability and DevOps concepts  
+
+**Medium:** https://medium.com/@alexjoyelraj  
 
 ---
 
-## Contact
-Email: **alexjoyelraj23@gmail.com**  
-Blog: **https://cyberhowler.blogspot.com/**
+## **Technical Strengths**
+- **Cloud:** EC2, VPC, IAM, ALB, S3, CloudWatch, Lambda, SNS
+- **DevOps:** CI/CD, Git, GitHub Actions, Jenkins, automation pipelines
+- **Containers:** Docker, Docker Compose, Nginx Reverse Proxy
+- **Systems:** Linux admin, Bash scripting, networking fundamentals
+- **Automation:** Ansible, IaC basics, configuration management
+- **Observability:** Metrics, logging, alerting, dashboards
+- **Security:** IAM hygiene, Linux hardening, least privilege access
 
 ---
 
-## Connect
-[GitHub](https://github.com/joyeldevhub)  
-[LinkedIn](https://www.linkedin.com/in/alex-joyel-raj-iruthayarj/)  
-[Instagram](https://www.instagram.com/bookiebitzz/)  
-[HackerRank](https://www.hackerrank.com/codejoyel?hr_r=1)
+## **Next Goals**
+- Self-healing cloud infrastructures
+- Kubernetes deployment workflows
+- Automated cloud security & compliance checks
+- DevOps micro-projects (2025 roadmap)
 
 ---
 
-![Stats](https://github-readme-stats.vercel.app/api?username=joyeldevhub&show_icons=true&theme=radical&hide_border=true)
-![Streak](https://github-readme-streak-stats.herokuapp.com?user=joyeldevhub&theme=radical&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joyeldevhub&layout=compact&theme=radical&hide_border=true)
+## **Contact**
+- **LinkedIn:** https://www.linkedin.com/in/alex-joyel-raj-iruthayarj/  
+- **Medium:** https://medium.com/@alexjoyelraj 
+
+Open to **DevOps**, **Cloud Engineering**, and **Platform Automation** roles.
+
