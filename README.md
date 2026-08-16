@@ -1,4 +1,4 @@
-# **Alex Joyel Raj I — DevOps Engineer | Cloud | Automation**
+# **Alex Joyal Raj I — Certified Solutions Architect Associate | DevOps Engineer | Cloud | Automation**
 
 **AWS • Linux • Docker • CI/CD • Ansible • Kubernetes (learning) • Terraform (learning) • Git • GitHub Actions • Jenkins • Monitoring • SRE Practices**
 
